@@ -1,6 +1,6 @@
 # Sentimental-Analysis-on-COVID-19-Tweets-using-python
 Project Structure
-The hands on project on Sentimental Analysis on COVID-19 Tweets using pythonis divided into following tasks:
+The hands on project on Sentimental Analysis on COVID-19 Tweets using python is divided into following tasks:
 
 Task 1: Introduction and Loading our Dataset    
 in this task we will talk about the purpose of this course and the things that you are going  to learn at the end of this project. We will import our csv file.     
